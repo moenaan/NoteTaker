@@ -12,6 +12,8 @@
     "dependencies": "0.0.1",
     "dxpress": "0.0.1-security",
     "express": "^4.17.1",
+    "script": "^0.1.4",
+    "start": "^5.1.0",
     "uuid": "^3.4.0"
   }
 }
